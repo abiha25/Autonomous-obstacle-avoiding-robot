@@ -2,8 +2,6 @@
 
 An Arduino-powered 2-wheel robot that drives autonomously and avoids obstacles in real time using an ultrasonic distance sensor mounted on a servo-driven scanner.
 
-![Robot Demo](media/Demo_video.mp4) and (media/demo_8s.gif)
-
 ## Overview
 
 This project implements real-time decision logic to stop, reverse, and scan left/right on obstacle detection — dynamically selecting the clearer path and turning accordingly without any human input.
@@ -34,7 +32,7 @@ This project implements real-time decision logic to stop, reverse, and scan left
 
 ## Circuit Diagram
 
-![Circuit Diagram](circuit/circuit_diagram.png)
+![Circuit Diagram](circuit/circuit_diagram.jpeg)
 
 **Pin Mapping**
 
